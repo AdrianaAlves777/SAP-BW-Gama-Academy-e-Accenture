@@ -1,0 +1,11 @@
+Com base no modelo de dados Transacional (OLTP), modelo uma proposta de modelo
+dimensional (OLAP) e construa um cubo informacional usando a plataforma SAP BW
+tomando como base o arquivo de dados VendaProdutosClassicModels.csv fornecido 
+pelo instrutor e todos os seus recursos para atender as necessidades do seu cliente, 
+possibilitando responder, analiticamente, as questões abaixo:
+
+1) Qual modelo mais vendido?
+2) Qual volume total de vendas da empresa? 
+3) Qual vendedor fez mais vendas?
+4) Qual a quantidade de vendas por localização?
+5) Quais os 5 maiores cliente
